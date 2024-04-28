@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://brominebr.github.io/
+url: https://brominebr.github.io
 date_format: "ordinal"
 title: Brog
 subtitle: "Bromine的碎碎念"
