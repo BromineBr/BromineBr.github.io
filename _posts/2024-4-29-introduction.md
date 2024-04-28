@@ -12,10 +12,10 @@ keywords: introduction
 osu! mania 4K 2800PP，maimai 15600+（国服），SDVX后光魔骑士&vf16.8
 有很多老婆，比如：
 
-![](https://github.com/BromineBr/BromineBr.github.io/blob/master/images/posts/kagiyama.png)
+![](/images/posts/kagiyama.png)
 
 键山雏 from 东方风神录
 
-![](https://github.com/BromineBr/BromineBr.github.io/blob/master/images/posts/cafe.jpg)
+![](/images/posts/cafe.jpg)
 
 曼城茶座 from 赛马娘
