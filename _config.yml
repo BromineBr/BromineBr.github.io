@@ -6,7 +6,7 @@ url: https://brominebr.github.io
 date_format: "ordinal"
 title: Brog
 subtitle: "Bromine的碎碎念"
-description: "马壮的个人博客，公众号：闷骚的程序员"
+description: "个人博客"
 keywords: BromineBr, Blog
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -61,8 +61,8 @@ author: Bromine_Br
 organization: 
 organization_url: 
 github_username: BromineBr
-location: Chengdu, China
-email: Yumenonakanoazemichi@outlook.com
+location: LLIVEHOUSE CiRCLE
+email: 
 
 # ---------------- #
 #    Navigation    #
@@ -168,10 +168,10 @@ beaudar:
     repo: mzlogin/blog-comments
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: mzlogin/blog-comments
-    repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
+    repo: BromineBr/BromineBr.github.io
+    repo-id: R_kgDOL0YFIg
     category: Announcements
-    category-id: DIC_kwDOBY0E7c4CRtg9
+    category-id: DIC_kwDOL0YFIs4CfANe
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 

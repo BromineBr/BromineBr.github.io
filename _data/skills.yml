@@ -1,19 +1,19 @@
-- name: Software Engineer Keywords
+- name: 二次元
   keywords:
-      - Java
-      - C++
-      - Python
-      - Design Patterns
+      - 动画推荐&吐槽
+      - Gal评测
+      - 漫画
 
-- name: Mobile Developer Keywords
+- name: 游戏
   keywords:
-      - Android
-      - Reverse Engineering
+      - 游戏推荐&吐槽
+      - 音游
+      - 其他
 
-- name: Windows Developer Keywords
+- name: 其他
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - 马拉松
+      - 摄影
+      - 创客相关
+      - whatever
+      
