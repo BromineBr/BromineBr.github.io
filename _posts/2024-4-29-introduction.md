@@ -7,7 +7,10 @@ keywords: introduction
 topmost: true
 ---
 
+这里是Bromine
+
 ## 我 是 谁
+
 这里Bromine，或者BromineBr，或者Bromine_Br，或者Br，二次元/音游/二偶/车万
 
 13-14年入宅，18年入音游，是萌萌人（嗯）；关注2.5次元企划 BanG Dream
