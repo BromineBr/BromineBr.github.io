@@ -2,12 +2,10 @@
 layout: post
 title: 关于Bromine_Br此人
 categories: 其他
-description: first update
+description: 这里是Bromine。
 keywords: introduction
 topmost: true
 ---
-
-这里是Bromine。
 
 ## 我 是 谁
 
