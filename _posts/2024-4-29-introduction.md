@@ -7,7 +7,7 @@ keywords: introduction
 topmost: true
 ---
 
-这里是Bromine
+这里是Bromine。
 
 ## 我 是 谁
 
