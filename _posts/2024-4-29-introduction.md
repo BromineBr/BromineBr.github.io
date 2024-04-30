@@ -81,7 +81,7 @@ osu! mania 4K 2800PP，maimai 15600+（国服），SDVX后光魔骑士&vf16.8
 
 ### 摄影
 
-Panasonic Lumix S5Ⅱx + Panasonic 24-105mm F4 L MACRO O.I.S.
+Panasonic Lumix S5Ⅱx + Lumix S 24-105mm F4 L MACRO O.I.S.
 
 没事随便拍拍，记录日常
 
