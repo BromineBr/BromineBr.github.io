@@ -1,6 +1,6 @@
 # B.R.O.G.
 
-A personal blog based on [码志](mzlogin/mzlogin.github.io). BROG is short for "Bromine's Refuge, Oasis and Garden". 
+A personal blog based on [码志](mzlogin/mzlogin.github.io). BROG is short for "Bromine's Refuge, Oasis and Garage". 
 
 <!--Actually, the name of my blog can be simply divided into two parts, Br and Blog, which means the blog of Br, short of BromineBr, very easy to catch on.-->
 

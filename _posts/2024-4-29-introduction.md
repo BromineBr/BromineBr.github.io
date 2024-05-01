@@ -101,9 +101,9 @@ Giant ATX 620
 
 
 
-## 关于Brog
+## 关于B.R.O.G.
 
-Br+Blog，我是傻逼。主要记录各类吐槽和评测，还有一点日常。
+Bromine's Refuge, Oasis and Garage，我是傻逼。主要记录各类吐槽和评测，还有一点日常。
 
 
 
